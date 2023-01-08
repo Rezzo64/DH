@@ -169,8 +169,8 @@ Y929lRybWEiKUr+4Yw2O1W0CAwEAAQ==
  *   Don't change this setting - there aren't any other options right now
  */
 exports.routes = {
-	root: 'dragonheavenserver.herokuapp.com',
-	client: 'dragonheaven.herokuapp.com',
+	root: 'dracovishheavenserver.herokuapp.com',
+	client: 'dracovishheaven.herokuapp.com',
 	dex: 'dex.pokemonshowdown.com',
 	replays: 'replay.pokemonshowdown.com',
 };
